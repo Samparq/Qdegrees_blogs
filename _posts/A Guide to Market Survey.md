@@ -1,4 +1,8 @@
-# A Guide to Market Survey – Purpose, Types, and More
+---
+layout: post
+title: "A Guide to Market Survey – Purpose, Types, and More"
+date: 2026-03-24
+---
 
 Making business decisions based on guesswork can be risky in today's world. One wrong decision can lead to loss of money and reputation.
 
