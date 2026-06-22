@@ -61,3 +61,5 @@ When you know exactly where your team excels and exactly where they fall short â
 The gap between what your employees were trained to do and what they actually do every day is costing you customers. Mystery shopping shows you that gap in precise detail â€” and gives you everything you need to close it.
 
 Ready to turn your employee training into a measurable performance engine? Connect with QDegrees today at qdegrees.com
+
+learn more:https://www.qdegrees.com/services/mystery-shopping
