@@ -82,4 +82,4 @@ With the help of QDegrees, healthcare workers can use the best Net Promoter Scor
 Summary
 The Net Promoter Score is a great way to determine how happy your patients are and how to improve healthcare. Healthcare workers can use an accurate Net Promoter Score Calculator and frequently conduct Net Promoter Score Surveys to find ways to improve, make patients happier, and build long-term trust.
 
-Learn more:[https://www.qdegrees.com/services/mystery-shopping](https://www.qdegrees.com/products/net-promoter-score-tool)
+Learn more:https://www.qdegrees.com/products/net-promoter-score-tool
